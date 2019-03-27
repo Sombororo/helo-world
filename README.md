@@ -1,2 +1,2 @@
-# helLo - world
+# hello - world
 My first repository XD!!
